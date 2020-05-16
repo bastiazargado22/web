@@ -1,0 +1,76 @@
+body{
+    width: 900PX;
+    margin: auto;
+    background-color: black;
+    font-family: Arial;
+    text-align: center;
+   
+}
+h1{
+    background-color: white;
+    color: black;   
+    text-align: center;
+} 
+h2{
+    background-color: white;
+    color: black; 
+    text-align: center;
+    
+}
+nav li {
+    display: inline-block;
+    padding: 20px;
+    color: red;
+       
+}
+
+nav {
+    
+    background: white; 
+    color: red;
+
+}
+
+section p{
+    color: white;
+}
+
+aside li {
+    display: inline-block;
+   
+}
+
+aside{
+    background: white;
+    
+}
+
+small{
+    color: white;
+}
+
+address{
+    color: red
+        
+}
+.usuario{
+    background: white;
+}
+label{
+    width: 100px;
+    display: inline-block;
+    margin: 10px;
+}
+.labelCrearUsuario{
+    width: 150px;
+}
+
+#enLineaBloque{
+    display: inline-block;
+    width: 400px;
+}
+
+#Botones{
+    display: inline-block;
+    margin-left: 95px;
+}
